@@ -13,7 +13,7 @@ Utilizei os seguintes recursos em JavaScript:
 Para desenvolver este projeto utilizei as tecnologias HTML5, CSS3 e Javascript. 
 
 ## Detalhes
-<img src="../midias/../Relógio%20Digital%20Dinâmico/midias/relogioDigital.png">
+![relogioDigital](https://user-images.githubusercontent.com/87779906/181069276-6dcdd94e-614d-4d67-856a-300f2ba2064e.png)
 
 <img src="../Relógio%20Digital%20Dinâmico/midias/responsivoIphoneX.png">
 
