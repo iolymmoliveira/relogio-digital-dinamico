@@ -15,7 +15,7 @@ Para desenvolver este projeto utilizei as tecnologias HTML5, CSS3 e Javascript.
 ## Detalhes
 ![relogioDigital](https://user-images.githubusercontent.com/87779906/181069276-6dcdd94e-614d-4d67-856a-300f2ba2064e.png)
 
-<img src="../Relógio%20Digital%20Dinâmico/midias/responsivoIphoneX.png">
+![responsivoIphoneX](https://user-images.githubusercontent.com/87779906/181070257-19ab87c9-74f4-4d45-859e-b0ed171150a7.png)
 
 ## Autoria 
 ### Autora
