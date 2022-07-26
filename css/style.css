@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Opens Sans', sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* Colocar uma imagem de Fundo que cubra toda a tela */
+  background-image: url(../midias/cerejeira.jpg);
+  background-size: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.clock {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 200px;
+  width: 550px;
+  background: transparent;
+  border-radius: 3px;
+  box-shadow: 0px 8px 10px rgba(122, 44, 38, 5);
+  }
+
+.clock div {
+  height: 170px;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  background: rgba(122, 44, 38, 0.9);
+  box-shadow: 5px 5px 15px rgba(122, 44, 38, 0.7);
+  border-radius: 7px;
+  letter-spacing: 3px;
+}
+
+.clock span {
+  font-weight: bolder;
+  font-size: 60px;
+}
+
+.clock span.time {
+  font-size: 10px;
+}
+
+@media screen and (max-width: 460px){
+  .clock {
+    height: 80vh;
+    width: 200px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
